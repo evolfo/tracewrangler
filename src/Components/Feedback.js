@@ -16,7 +16,7 @@ const Feedback = () => (
         <li>a short sample trace, if possible </li>
         <li>the .task file you used, if you still have it. </li>
       </ul>
-      <hr></hr>
+      <hr> </hr>
       <p>
         {" "}
         TraceWrangler has some limitations at the moment (which may most likely
