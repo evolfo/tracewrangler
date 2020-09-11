@@ -1,5 +1,6 @@
 import React from 'react';
-import './App.css';
+import './Styles/App.css';
+import './Styles/MediaQueries.css';
 
 import Footer from './Components/Footer'
 import Header from './Components/Header'
